@@ -1,3 +1,4 @@
 cerveza
-cocacola 1
-
+Dos cocacola 1
+fanta 2
+4

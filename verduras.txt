@@ -1,0 +1,4 @@
+lechugas 2
+zanahorias 3
+puerro 4
+calabaza 5
