@@ -1,4 +1,3 @@
 cerveza
-cocacola
-fanta
-agua
+cocacola 1
+
