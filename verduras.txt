@@ -2,3 +2,6 @@ lechugas 2
 zanahorias 3
 puerro 4
 calabaza 5
+judias planas 6
+judias redondas 7
+coles 8
