@@ -1,4 +1,8 @@
 yogures 1
 quesitos 2
+<<<<<<< HEAD
 postres helados 3
 mantequilla 3
+=======
+postres helados 3
+>>>>>>> c38ec17 (postres helados)
